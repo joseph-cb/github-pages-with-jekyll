@@ -1,6 +1,6 @@
 ---
 title: "Second Post"
-date: 2020-05-04
+date: 2020-05-05
 ---
 This is the second post. File name is dated for yesterday. Front matter says the date is tomorrow. Who will win??
 
@@ -11,3 +11,5 @@ Change date to tomorrow again. Commit to a new branch. Create PR to merge.
 Change front matter date to yesterday. Commit to a new branch. Create PR to merge.
 
 Change front matter date to day before. Commit to a new branch. Create PR to merge.
+
+Change to match filename date
