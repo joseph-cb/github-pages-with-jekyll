@@ -11,4 +11,4 @@ github_username:  your-github-handle # DO NOT include the @ character, or else t
 
 show_excerpts: false # set to false to remove excerpts on the homepage
 
-theme: minima #jekyll-theme-tactile
+theme: jekyll-theme-tactile *minima 
