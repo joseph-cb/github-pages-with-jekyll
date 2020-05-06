@@ -12,4 +12,4 @@ github_username:  your-github-handle # DO NOT include the @ character, or else t
 show_excerpts: false # set to false to remove excerpts on the homepage
 
 #theme: minima 
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: mmistakes/minimal-mistakes@4.19.2
