@@ -1,8 +1,9 @@
 ---
-title: "Second Post"
+title: "National Lab Taps AI Machine With Massive Chip to Fight Coronavirus"
 date: 2020-05-07
 ---
- National Lab Taps AI Machine With Massive Chip to Fight Coronavirus
+
+National Lab Taps AI Machine With Massive Chip to Fight Coronavirus
 
 Scientists at Argonne National Laboratory hope the system’s calling card, a chip measuring over 64 square inches, will speed up drug discovery
 
